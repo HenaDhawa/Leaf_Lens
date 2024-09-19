@@ -59,17 +59,17 @@ Installation Guide:
     User Management: Register, log in, and manage your sessions for a personalized experience.
     
     Requirements: The project uses the following libraries and packages:
-    absl-py
-    Flask
-    Flask-SQLAlchemy
-    scikit-learn
-    pandas
-    numpy
-    matplotlib
-    jupyter
-    tensorflow
-    keras
-    pillow
+    absl-py, 
+    Flask, 
+    Flask-SQLAlchemy, 
+    scikit-learn, 
+    pandas, 
+    numpy, 
+    matplotlib, 
+    jupyter, 
+    tensorflow, 
+    keras, 
+    pillow, 
     mysqlclient
 
     This guide provides a comprehensive overview to set up, run, and utilize the Leaf-Lens project for effective plant disease detection and management.
