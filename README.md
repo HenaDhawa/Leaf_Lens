@@ -1,4 +1,4 @@
-Leaf-Lens: Plant Disease Detection System
+#Leaf-Lens: Plant Disease Detection System
 
 Project Overview:
 The Leaf-Lens project aims to detect and classify plant diseases using Convolutional Neural Networks (CNNs). It provides an accessible web interface for users to upload images of plant leaves and receive disease predictions. The system also integrates features for data visualization and user interaction, enhancing plant disease management for farmers, researchers, and plant enthusiasts.
